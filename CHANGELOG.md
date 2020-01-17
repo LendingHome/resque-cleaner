@@ -1,3 +1,7 @@
+## 0.4.2 (2020-01-16)
+
+* Fix security CSRF issue with cleaner list
+
 ## 0.4.1 (2018-01-25)
 
 * Remove Requeue version lock (#46)
